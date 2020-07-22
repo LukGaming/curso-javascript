@@ -1,1 +1,0 @@
-var first_code = "hello world";
